@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript | React | Node.js | Express.js | PostgreSQL | HTML | TypeScript**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **szsantiago2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
